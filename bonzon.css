@@ -1,8 +1,3 @@
-html {
-	text-align:justify;
-}
-
-
 body {
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-size: 10pt;
@@ -11,7 +6,6 @@ body {
 	padding: 10px;
 	background-color:#F3F3F3;
 	text-align: left;
-
 }
 
 .maligne
@@ -19,7 +13,6 @@ body {
 margin-bottom:0px;
 border-bottom: solid 1px #F3F3F3;
 width:100%;
-
 }
 
 
@@ -35,7 +28,6 @@ width:100%;
 	padding-left: 0px;
 	background-color: #FFFFFF;
 	border: 1px solid #CCCCCC;
-	
 	}
 	
 td {
@@ -97,7 +89,6 @@ A.menulink:hover
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-size: 10pt;
 	color: #000000;
-	height: 300px;
 }
 
 #menu {
@@ -107,7 +98,6 @@ A.menulink:hover
 	w\idth: 177px;
 	margin: 0;
 	padding: 10px;
-	height:100%;
 }
 
 #footer {
